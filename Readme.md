@@ -52,5 +52,4 @@ This tool is developed based on [**netron**](https://github.com/lutzroeder/netro
 | DRAM data footprint | O | O |
 | DRAM/SRAM data footprint | X | O |
 | Configurable Freq./MEM BW | X | O |
-| Model Format | Caffe | ONNX, TensorFlow, Caffe...|
 | Source Codes | X | Available |
